@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "05ca1637fcb323059cd3",
-    "url": "/react-mdl-portfolio/static/css/main.1667f43f.chunk.css"
+    "revision": "90552127e34b1b5bc530",
+    "url": "/react-mdl-portfolio/static/css/main.453f81cd.chunk.css"
   },
   {
-    "revision": "05ca1637fcb323059cd3",
+    "revision": "90552127e34b1b5bc530",
     "url": "/react-mdl-portfolio/static/js/main.36038fea.chunk.js"
   },
   {
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/react-mdl-portfolio/static/media/background-resize.7b30d232.jpg"
   },
   {
-    "revision": "06be4ba9ba4b3fab01a10a7add82b3cf",
+    "revision": "0751e2a72f8f689a0e56ad05d1b60403",
     "url": "/react-mdl-portfolio/index.html"
   }
 ];
